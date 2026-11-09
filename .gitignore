@@ -26,3 +26,5 @@ Thumbs.db
 *.swp
 .vscode/
 .classpath
+# WorkBuddy 项目数据，不推送
+.workbuddy/
